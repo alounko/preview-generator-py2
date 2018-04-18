@@ -6,6 +6,10 @@ Preview-generator Documentation
 Presentation
 ------------
 
+------------
+This is the fork of preview-generator library for python 2.7 compatibility https://github.com/algoo/preview-generator
+------------
+
 .. image:: https://api.travis-ci.org/algoo/preview-generator.svg?branch=master
 
 preview-generator is a library for generating preview - thumbnails, pdf, text and json overview for all your file-based content. This module gives you access to jpeg, pdf, text, htlm and json preview of virtually any kind of file. It also includes a cache mechanism so you do not have to care about preview storage.
