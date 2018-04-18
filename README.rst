@@ -7,7 +7,7 @@ Presentation
 ------------
 
 ------------
-This is the fork of preview-generator library for python 2.7 compatibility https://github.com/algoo/preview-generator
+This is the fork of preview-generator library compatible with python 2.7 https://github.com/algoo/preview-generator
 ------------
 
 .. image:: https://api.travis-ci.org/algoo/preview-generator.svg?branch=master
